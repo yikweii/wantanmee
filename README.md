@@ -1,7 +1,6 @@
-# wantanmee
 # 🏆 Submission for L’Oréal x Monash Datathon 2025 🏆
 
-This repository contains our project submission from Group WantanMee for the L’Oréal x Monash Datathon 2025.
+This repository contains our project submission from Group** WantanMee** for the L’Oréal x Monash Datathon 2025.
 
 **Key Resources:**
 
