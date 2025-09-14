@@ -5,7 +5,7 @@ This repository contains our project submission from Group** WantanMee** for the
 **Key Resources:**
 
 *   🎨 **Dashboard:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGJkMDMzY2QtZjgyNy00Yjc5LWEzOGEtNTZjNTcyNTZiNmIyIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
-*   📄 **Documentation:** [Deck]([https://cloudmails-my.sharepoint.com/:w:/g/personal/tp068221_mail_apu_edu_my/EbsIeTS0YL5LrnwjlGSye_YBM_l6irO-n1yPzv8l6rI8jQ?e=7RUqqa) |  [Presentation Slides](https://www.canva.com/design/DAGyxJ0gyvQ/09DuPt_j-aIwdzPWBtz_PQ/edit)
+*   📄 **Documentation:** [Deck](https://cloudmails-my.sharepoint.com/:w:/g/personal/tp068221_mail_apu_edu_my/EbsIeTS0YL5LrnwjlGSye_YBM_l6irO-n1yPzv8l6rI8jQ?e=7RUqqa) |  [Presentation Slides](https://www.canva.com/design/DAGyxJ0gyvQ/09DuPt_j-aIwdzPWBtz_PQ/edit)
 
 ---
 ## 🚀 What's Inside
