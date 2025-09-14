@@ -9,7 +9,7 @@ This repository contains our project submission from Group** WantanMee** for the
 
 ---
 ## 🚀 What's Inside
-*   **preprocess.rar :** compressed file that contains cleaning and processing code for the initial raw datasets (comments*.csv and video.csv).
+*   **mc-datathon.ipynb :** code contains cleaning and processing code for the initial raw datasets (comments*.csv and video.csv).
 *   **Colab_Supervised_Model_Training.ipynb :** demonstrates the full pipeline of supervised machine learning model training.
 *   **sentiment and relevance analysis.ipynb :** determine sentiment polarity and relevance of comments.
 
